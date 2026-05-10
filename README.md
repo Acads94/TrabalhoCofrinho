@@ -22,4 +22,4 @@ O projeto utiliza os pilares da programação orientada a objetos para garantir 
 * **Interface:** Console (Interativa).
 
 ---
-*Este projeto foi desenvolvido como parte de uma atividade acadêmica da Uninter (2026).*
+*Este projeto foi desenvolvido como parte de uma atividade acadêmica da Uninter (2025).
